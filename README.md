@@ -10,3 +10,6 @@ There is a stack of nonnegative numbers n∊ℕ. Each player is given a set of n
 **main.cpp** - main source file.\
 **subtraction.hpp** - header file for subtraction class.\
 **subtraction.cpp** - implementation of subtraction class.
+
+# How to use
+Simply download and run main.exe!
